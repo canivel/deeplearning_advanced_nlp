@@ -1,3 +1,3 @@
-download
-https://github.com/canivel/deeplearning_advanced_nlp.git
-https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+downloads:
+ - Stanford Glove: https://nlp.stanford.edu/projects/glove/
+ - Kaggle Toxic Comments Competition: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
